@@ -1,1 +1,2 @@
 git push -u origin mastergit push -u origin mastergit push -u origin mastergit push -u origin master
+ Spring Integration Kafka 是基于 Apache Kafka 和Spring Integration来集成Kafka，对开发配置提供了方便。
